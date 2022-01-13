@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3/scItmQ6ODYOpj5qzSwbI5Qkm5DokkzGNEfv7weoHSeA8HyhoAERArf1qo9l3+cvvBbLKsxFOJ6ZY9yORIHA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Module1HW4\\Module1HW4\\Module1HW4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosti\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

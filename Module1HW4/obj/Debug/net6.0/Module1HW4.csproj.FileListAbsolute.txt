@@ -1,0 +1,15 @@
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\Module1HW4.exe
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\Module1HW4.deps.json
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\Module1HW4.runtimeconfig.json
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\Module1HW4.dll
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\ref\Module1HW4.dll
+D:\Code\Module1HW4\Module1HW4\bin\Debug\net6.0\Module1HW4.pdb
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.csproj.AssemblyReference.cache
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.AssemblyInfoInputs.cache
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.AssemblyInfo.cs
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.csproj.CoreCompileInputs.cache
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.dll
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\ref\Module1HW4.dll
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.pdb
+D:\Code\Module1HW4\Module1HW4\obj\Debug\net6.0\Module1HW4.genruntimeconfig.cache
